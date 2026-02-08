@@ -1,6 +1,6 @@
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=000000&width=500&lines=Hey%2C+I’m+Daniel;Product+Engineer;Creative+Technologist"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=000000&width=520&lines=Hey%2C+I'm+Daniel;Product+Engineer;Creative+Technologist"
     alt="Typing introduction"
   />
 </p>
