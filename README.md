@@ -1,58 +1,62 @@
-## Daniel Echevarria
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=000000&width=500&lines=Hey%2C+I’m+Daniel;Product+Engineer;Creative+Technologist"
+    alt="Typing introduction"
+  />
+</p>
 
-**Product Engineer**  
-**Creative Technologist**
+I’m a **Product Engineer** who enjoys working at the intersection of engineering, design, and real-world constraints.
 
-I build thoughtful web products with a strong focus on usability, maintainability, and real-world constraints.  
-My background blends engineering, product thinking, and hands-on experience in creative and operational environments.
-
----
-
-### Currently
-- Building product-focused applications with **TypeScript, React, and Next.js**
-- Developing **SleekSpin**, a real-world tool that generates printable record labels using the Discogs API
-- Exploring **AI-assisted workflows**, system design, and developer tooling
-- Deepening fundamentals: architecture, data modeling, and performance
+I like building things that make sense, feel good to use, and hold up over time.
 
 ---
 
-### Selected Work
-These projects reflect how I think and what I care about.
+### What I’m up to lately
+
+- Building product-focused web apps with **TypeScript, React, and Next.js**
+- Working on **SleekSpin**, a tool that generates printable record labels using the Discogs API
+- Exploring AI-assisted workflows and better developer tooling
+- Strengthening fundamentals: architecture, data modeling, and performance
+
+---
+
+### A few things I’ve built
+
+I care less about demos and more about projects that solve actual problems.
 
 - **SleekSpin**  
-  A web app that helps people organize and find records in their collection by generating printable labels.  
-  Focus: product UX, API integration, printing constraints, and real user needs.
+  A real-world app for organizing record collections through printable labels  
+  (product UX, APIs, printing constraints)
 
 - **Slick Messenger**  
-  A real-time messaging application.  
-  Focus: authentication, data modeling, and scalable backend architecture.
+  A real-time messaging application  
+  (authentication, data modeling, backend foundations)
 
 - **Pokememorize**  
-  A memory card game built with React and the Pokémon API.  
-  Focus: state management, performance, and clean UI logic.
+  A memory card game built with React and the Pokémon API  
+  (state management, performance, clean UI logic)
 
-Pinned repositories contain more context and technical details.
-
----
-
-### How I Work
-- **Product-minded**: I care deeply about why we build something, not just how
-- **Pragmatic**: clarity and maintainability over clever solutions
-- **Collaborative**: calm communication, integrity, and constructive feedback
-- **Curious**: I learn fast and enjoy teaching what I’ve understood
-
-I’ve worked in both engineering and leadership roles, including technical direction in a large, horizontal team structure. That experience shaped how I approach ownership, collaboration, and responsibility.
+Pinned repositories contain more context if you’re curious.
 
 ---
 
-### Toolbox
+### How I tend to work
+
+- I think in terms of **products**, not just features
+- I prefer **clear and maintainable** solutions over clever ones
+- I value calm communication, integrity, and shared ownership
+
+Before focusing fully on software, I worked in creative and technical leadership roles.  
+That experience strongly influences how I collaborate today.
+
+---
+
+### Tools I enjoy working with
+
 TypeScript · React · Next.js · Node.js · Ruby on Rails · PostgreSQL  
 Tailwind CSS · REST APIs · Auth (JWT, Devise) · Docker (learning)
 
 ---
 
-### More
-Based in Berlin  
-Open to **junior product engineering roles**
-
-Portfolio: https://danielechevarria.dev
+Berlin-based  
+More context: https://danielechevarria.com
