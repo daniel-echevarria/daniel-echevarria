@@ -17,24 +17,6 @@ I like building things that make sense, feel good to use, and hold up over time.
 
 ---
 
-### A few things I’ve built
-
-- **SleekSpin**  
-  A web app to help record collectors organise their collections through printable labels  
-  (product UX, APIs, printing constraints)
-
-- **Slick Messenger**  
-  A messaging application  
-  (authentication, data modeling, backend foundations)
-
-- **Pokememorize**  
-  A memory card game built with React and the Pokémon API  
-  (state management, performance, clean UI logic)
-
-Pinned repositories contain more context if you’re curious.
-
----
-
 ### How I tend to work
 
 - I think in terms of **products**, not just features
