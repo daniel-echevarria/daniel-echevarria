@@ -5,8 +5,6 @@
   />
 </p>
 
-I like building things that make sense, feel good to use, and hold up over time.
-
 ---
 
 ### What I’m up to lately
